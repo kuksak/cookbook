@@ -3,4 +3,6 @@ adding one more line to master
 adding second line to secondbranch
 detached head state
 addintion of few statements
+example of more additions
+
 
